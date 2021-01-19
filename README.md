@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **dhamanutd/dhamanutd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=dhamanutd.dhamanutd)
 
 
-My current week focus on github
+## My current week focus on github
+
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
