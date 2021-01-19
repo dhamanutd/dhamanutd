@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhamanutd&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=dhamanutd.dhamanutd)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhamanutd&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhamanutd&theme=dark)
