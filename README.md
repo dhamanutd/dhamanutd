@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dhamanutd.dhamanutd)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhamanutd&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhamanutd&layout=compact&theme=dark)
+My current week focus on github
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
