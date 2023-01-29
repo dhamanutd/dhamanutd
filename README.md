@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=dhamanutd.dhamanutd)
 
 
-## My current week focus on github
+*Do you even think people only write their code in the github?*
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+
